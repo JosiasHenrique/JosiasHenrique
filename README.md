@@ -16,7 +16,7 @@ Aqui está um dos meus projetos interessantes:
 
 ## 📚 Contato
 - 📧 **Email**: henriqueleonel938@gmail.com
-- 🌍 **LinkedIn**: [linkedin.com/in/josias]([https://www.linkedin.com/in/josias](https://www.linkedin.com/in/josiashenrique/))
+- 🌍 **LinkedIn**: [linkedin.com/in/josiashenrique](https://www.linkedin.com/in/josiashenrique)
 
 ## 📖 Aprendizado contínuo
 Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades. Se você tiver sugestões de cursos, livros ou recursos interessantes, ficarei feliz em recebê-los! 💡
