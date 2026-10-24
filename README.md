@@ -1,5 +1,5 @@
 Olá, sou o Josias 👋
-👨‍💻 Engenharia de Software (6º semestre) | Técnico em Informática
+👨‍💻 Engenharia de Software (8º semestre) | Técnico em Informática
 🔧 Java | React.js | Node.js | TypeScript
 
 📧 henriqueleonel938@gmail.com 
